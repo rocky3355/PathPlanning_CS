@@ -1,0 +1,12 @@
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\bin\Debug\PathPlanning.exe.config
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\bin\Debug\PathPlanning.exe
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\bin\Debug\PathPlanning.pdb
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\bin\Debug\Fleck.dll
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\obj\Debug\PathPlanning.csprojAssemblyReference.cache
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\obj\Debug\PathPlanning.csproj.CoreCompileInputs.cache
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\obj\Debug\PathPlanning.csproj.CopyComplete
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\obj\Debug\PathPlanning.exe
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\obj\Debug\PathPlanning.pdb
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Paschl\Documents\Visual Studio 2017\Projects\PathPlanning\PathPlanning\bin\Debug\Newtonsoft.Json.xml
