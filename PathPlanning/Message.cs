@@ -11,5 +11,6 @@ namespace PathPlanning {
         public double speed;
         public double[] previous_path_x;
         public double[] previous_path_y;
+        public double[][] sensor_fusion;
     }
 }

@@ -49,7 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="LaneChangeInfo.cs" />
+    <Compile Include="PathPlannerAction.cs" />
     <Compile Include="CubicSpline.cs" />
     <Compile Include="Message.cs" />
     <Compile Include="Program.cs" />
